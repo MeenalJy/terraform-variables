@@ -88,5 +88,3 @@ variable "is_enabled" {
 ## Conclusion
 
 Understanding Terraform variable data types is crucial for creating robust infrastructure as code. Feel free to explore the examples provided in this repository to gain a deeper understanding of each data type.
-
-```
